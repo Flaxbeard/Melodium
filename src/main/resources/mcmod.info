@@ -1,0 +1,16 @@
+[
+{
+  "modid": "melodium",
+  "name": "Melodium",
+  "description": "Musical magic mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Elucent","Flaxbeard","Wingman"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
